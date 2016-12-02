@@ -1,4 +1,4 @@
-9[package]
+[package]
 
 name = "amqp"
 version = "0.0.19"
